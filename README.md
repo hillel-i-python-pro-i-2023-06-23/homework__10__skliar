@@ -1,7 +1,7 @@
 # Django application
 
 ---
-![Main workflow](https://github.com/NickSkliar/basic_django_prog/actions/workflows/main-workflow.yml/badge.svg)
+![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/homework__10__skliar/actions/workflows/main-workflow.yml/badge.svg)
 
 ## 🏠 Homework
 
